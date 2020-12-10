@@ -10,4 +10,4 @@ Image compression using PCA and k-means clustering with various values principle
 ![pca5](pca.jpeg) <br > *Image reduced using PCA with 5 principal components.*
 <br > <br >
 
-![k2](kmeans.jpeg) <br > *Image reducded using kmeans clustering with 2 clusters.*
+![k2](cluster.jpeg) <br > *Image reducded using kmeans clustering with 2 clusters.*
