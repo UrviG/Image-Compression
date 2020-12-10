@@ -1,0 +1,15 @@
+Original image size =  24.769  kB
+
+PCA: 
+	 100  PC, size =  24.116  kB
+	 50  PC, size =  23.169  kB
+	 20  PC, size =  20.552  kB
+	 10  PC, size =  18.471  kB
+	 5  PC, size =  17.019  kB
+
+K-means: 
+	k =  20 , size =  25.461 kB
+	k =  10 , size =  25.761 kB
+	k =  5 , size =  23.464 kB
+	k =  3 , size =  21.63 kB
+	k =  2 , size =  15.516 kB
